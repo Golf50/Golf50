@@ -1,5 +1,5 @@
 Golf50/Golf50 is a ✨Hi, I’m @Golf50
-- 👀 I’m interested in ViVeTool.GUI and Golf50/Golf50 is a ✨Hi, I’m @Golf50
+
 - 👀 I’m interested in ViVeTool.GUI and ViVeTool.
 - 🌱 I’m currently learning ViVeTool.GUI.
 - 💞️ I’m looking to collaborate on /
